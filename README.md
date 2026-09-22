@@ -4,7 +4,9 @@ DX Overworld importer and Realtime Battle - You need Pokemon DX: Gale of Darknes
 https://smidja2.github.io/DX-Realtime-and-Overworld/
 
 WASD = move
+
 Mouse = look around
+
 RMB = lock onto the enemy
 
 While holding RMB:
