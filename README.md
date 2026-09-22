@@ -1,7 +1,7 @@
 # DX-Realtime-and-Overworld
 DX Overworld importer and Realtime Battle - You need Pokemon DX: Gale of Darkness iso
 
-https://smidja2.github.io/DX-Realtime-and-Overworld/
+https://smidja2.github.io/DX-Realtime-and-Overworld-for-gen1
 
 WASD = move
 
