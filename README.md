@@ -7,7 +7,7 @@ WASD = move
 
 Mouse = look around
 
-RMB = lock onto the enemy
+**RMB = lock onto the enemy**  <- very important, this is the core 
 
 While holding RMB:
 W/S = move closer/farther
@@ -24,7 +24,7 @@ X = dodge/air dash
 
 Space = jump or fly upward
 
-**C / RCTRL = recenter aim    <- Very Important**
+C / RCTRL = Flydown
 
 Mouse wheel = zoom
 
